@@ -1,0 +1,80 @@
+body {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+/*.topbanner {
+  margin-left: 300px;
+  margin-right: 300px;
+  width: 60%;
+}*/
+.container {
+  width: auto;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: black;
+  background: rgba(51, 51, 51, .6);
+  border-radius: 10px;
+  padding-bottom: 50px;
+}
+p {
+  font-size: 25px;
+  margin-left: 50px;
+  margin-top: 50px;
+  color: white;
+  font-family: 'Cormorant', serif;
+
+}
+h3 {
+  font-size: 35px;
+  margin-left: 50px;
+  color: white;
+  font-family: 'Cormorant', serif;
+  font-weight: bold;
+}
+img {
+  width: 420px;
+  height: 400px;
+  min-width:300px;
+  display: grid;
+  margin: auto;
+  border-radius: 15px;
+}
+.banner {
+  background: rgba(200, 54, 54, 0);
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top:5px;
+  width: auto;
+  max-height: : 600px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.banner img {
+  width: 110%;
+  height: 200px;
+
+}
+.navigation {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -100px;
+}
+
+.intro {
+  text-align: center;
+}
+/*.footer {
+  background-color: #333;
+  height: 200px;
+  width: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
+}*/
+.social a img {
+  height: 100px;
+  width: 100px;
+}
